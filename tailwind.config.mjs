@@ -32,19 +32,33 @@ export default {
     extend: {
       colors: {
         transparent: 'transparent',
+        // primary: {
+        //   50: '#fdf2f8',
+        //   100: '#fce7f3',
+        //   200: '#fbcfe8',
+        //   300: '#f9a8d4',
+        //   400: '#f472b6',
+        //   500: '#E2187D',
+        //   600: '#db2777',
+        //   700: '#be185d',
+        //   800: '#9d174d',
+        //   900: '#831843',
+        //   950: '#500724',
+        // },
         primary: {
-          50: '#fdf2f8',
-          100: '#fce7f3',
-          200: '#fbcfe8',
-          300: '#f9a8d4',
-          400: '#f472b6',
-          500: '#E2187D',
-          600: '#db2777',
-          700: '#be185d',
-          800: '#9d174d',
-          900: '#831843',
-          950: '#500724',
+          50: '#fef9f7', // Very pale ivory
+          100: '#fdece0', // Soft, muted peach
+          200: '#fcc1a1', // Light copper
+          300: '#f7926b', // Medium copper/orange
+          400: '#ee6a3e', // Vibrant burnt orange (highlights & metallic elements)
+          500: '#d33319', // Deep red-orange (main copper/red element)
+          600: '#b7280f', // Rich chestnut (dark parts of the red in the head piece)
+          700: '#951e0c', // Dark reddish-brown
+          800: '#77190a', // Very deep brownish-red
+          900: '#571107', // Dark ruby-maroon (deeper shadow tones)
+          950: '#320803', // Almost black-red
         },
+
         neutral: {
           50: '#f8fafc',
           100: '#f1f5f9',
