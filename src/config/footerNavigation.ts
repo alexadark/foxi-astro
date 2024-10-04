@@ -37,11 +37,11 @@ export const footerNavigationData: FooterData = {
 	footerAbout: {
 		title: 'Foxi.',
 		aboutText:
-			'Expertly made, responsive, accessible components in React and HTML ready to be used on your website or app. Just copy and paste them on your Tailwind CSS project.',
+			'Cutzai is your partner in digital innovation, blending a decade of front-end expertise with cutting-edge AI technology. We empower digital agencies to optimize workflows, enhance creativity, and deliver unparalleled value to clients. Our mission: to help you work smarter, grow faster, and stay ahead in the digital revolution.',
 		logo: {
 			src: '/logo.svg',
-			alt: 'The tailwind astro theme',
-			text: 'Foxi.'
+			alt: 'Cutxai logo',
+			text: 'Cutzai.'
 		}
 	},
 	footerColumns: [
@@ -106,6 +106,6 @@ export const footerNavigationData: FooterData = {
 		}
 	],
 	subFooter: {
-		copywriteText: '© Foxi 2024.'
+		copywriteText: `© Cutzai ${new Date().getFullYear()}.`
 	}
 }

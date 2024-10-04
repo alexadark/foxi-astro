@@ -51,7 +51,7 @@ export const navigationBarData: NavData = {
 		// 		{ name: 'Terms', link: '/terms' }
 		// 	]
 		// },
-		{ name: 'Contact', link: '/contact' }
+		{ name: 'Contact', link: 'mailto:alexaspalato@gmail.com' }
 	],
 	navActions: [
 		{

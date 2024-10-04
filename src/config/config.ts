@@ -21,13 +21,13 @@ export interface Config {
 }
 
 export const configData: Config = {
-	siteTitle: 'Foxi. Tailwind CSS Astro Starter Kit by Oxygenna',
+	siteTitle: 'Cutzi: AI Automation for Digital Agencies',
 	siteDescription:
-		'Foxi is a design and development agency that specializes in creating beautiful and functional websites.',
+		'Revolutionize your digital agency with cutting-edge AI automation and expert front-end development. Cutzai brings you the perfect blend of innovative technology and seasoned expertise to elevate your projects and skyrocket your efficiency.',
 	ogImage: '/og.jpg',
 	logo: {
 		src: '/logo.svg',
-		alt: 'Foxi. logo'
+		alt: 'Cutzi. logo'
 	},
 	canonical: true,
 	noindex: false,
