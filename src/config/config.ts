@@ -21,13 +21,13 @@ export interface Config {
 }
 
 export const configData: Config = {
-	siteTitle: 'Cutzi: AI Automation for Digital Agencies',
+	siteTitle: 'Cutzai: AI Automation for Digital Agencies',
 	siteDescription:
 		'Revolutionize your digital agency with cutting-edge AI automation and expert front-end development. Cutzai brings you the perfect blend of innovative technology and seasoned expertise to elevate your projects and skyrocket your efficiency.',
 	ogImage: '/og-2.jpg',
 	logo: {
 		src: '/logo.svg',
-		alt: 'Cutzi. logo'
+		alt: 'Cutzai. logo'
 	},
 	canonical: true,
 	noindex: false,
